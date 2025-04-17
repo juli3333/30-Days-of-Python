@@ -26,6 +26,7 @@ Data analysis basics (Pandas, NumPy)
 
 
 
+
 # Day	Topics
 01	Introduction
 02	Variables, Built-in Functions
@@ -57,6 +58,8 @@ Data analysis basics (Pandas, NumPy)
 28	API
 29	Building API
 30	Conclusions
+
+
 
 
 
